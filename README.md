@@ -1,8 +1,5 @@
 # Hi there! I'm Insha 👋  
 
-🎓 **BCA Student | Aspiring Data Scientist & AI Engineer**  
-📍 Lucknow, India  
-
 ---
 
 ## 🚀 About Me

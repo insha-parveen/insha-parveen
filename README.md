@@ -57,13 +57,7 @@ I enjoy building projects, learning continuously, and preparing myself for a glo
 
 ---
 
-## 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*  
-- 🧑‍💻 GitHub: You're already here 😊  
-- ✉️ Email: *(Optional)*
-
----
 
 ✨ *"Consistent learning + real projects = unstoppable growth."*
 

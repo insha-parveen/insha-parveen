@@ -4,11 +4,11 @@
 
 ## 🚀 About Me
 
-I’m **Insha**, a passionate learner and future **Data Scientist / Machine Learning Engineer**, currently pursuing my **BCA**.  
+I’m **Insha**, a passionate learner and aspiring **Data Scientist / **AI Engineer**, .  
 My journey revolves around turning **data into intelligent solutions** and building real-world AI projects.
 
 I have strong foundations in **Python, NumPy, Pandas, Statistics, and Machine Learning**, and I’m actively working on advanced areas like **Deep Learning, NLP, and Generative AI**.  
-I enjoy building projects, learning continuously, and preparing myself for a global tech career — with the goal of working in **Gulf countries (Saudi Arabia / Dubai)** as a skilled AI professional.
+I enjoy building projects, learning continuously, and preparing myself for a global tech career as a skilled AI professional.
 
 ---
 
@@ -62,17 +62,4 @@ I enjoy building projects, learning continuously, and preparing myself for a glo
 ✨ *"Consistent learning + real projects = unstoppable growth."*
 
 
-<!--
-**insha-parveen/insha-parveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

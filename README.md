@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I’m **Insha**, a passionate learner and aspiring **Data Scientist / **AI Engineer**, .  
+I’m **Insha**, a passionate learner and aspiring **Data Scientist / AI Engineer**, .  
 My journey revolves around turning **data into intelligent solutions** and building real-world AI projects.
 
 I have strong foundations in **Python, NumPy, Pandas, Statistics, and Machine Learning**, and I’m actively working on advanced areas like **Deep Learning, NLP, and Generative AI**.  
